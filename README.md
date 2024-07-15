@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 # Getting Started
 Installation: 
 1. Clone the repository:
-   - git clone https://github.com/your-username/firestore-chat-app.git -> cd firestore-chat-app
+   - git clone https://github.com/your-username/firebase-functions-chat.git -> cd firestore-chat-app
      
 2. Install dependencies for both the client and functions:
    - cd functions -> npm install
