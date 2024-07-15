@@ -1,4 +1,4 @@
-# Firestore Chat App
+# Firebase Chat App
 Description:
 - Firestore Chat App is a real-time chat application built using Firebase Firestore and Firebase Cloud Functions. This project demonstrates how to use Firestore to store and retrieve chat messages and how to use Cloud Functions for backend logic.
 
